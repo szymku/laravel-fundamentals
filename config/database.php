@@ -26,7 +26,7 @@ return [
     |
     */
 
-    'default' => env('DB_CONNECTION', 'mysql'),
+    'default' => env('DB_CONNECTION', 'sqlite'),
 
     /*
     |--------------------------------------------------------------------------
@@ -43,6 +43,8 @@ return [
     | choice installed on your machine before you begin development.
     |
     */
+
+
 
     'connections' => [
 

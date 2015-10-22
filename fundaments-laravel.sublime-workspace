@@ -1,0 +1,648 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"T",
+				"Thread〔class〕"
+			],
+			[
+				"I",
+				"InputArgument"
+			],
+			[
+				"Inpu",
+				"InputArgument〔namespace〕"
+			],
+			[
+				"w",
+				"writeln〔function〕"
+			],
+			[
+				"con",
+				"$connection〔variable〕"
+			],
+			[
+				"Ou",
+				"OutputInterface"
+			],
+			[
+				"In",
+				"InputInterface"
+			],
+			[
+				"fun",
+				"fun	function …"
+			],
+			[
+				"yi",
+				"yieldStg"
+			],
+			[
+				"y",
+				"yieldStg"
+			],
+			[
+				"arr",
+				"arrayStg〔function〕"
+			],
+			[
+				"iter",
+				"iterator_to_array〔function〕"
+			],
+			[
+				"arra",
+				"$array〔variable〕"
+			],
+			[
+				"af",
+				"$afterYield〔variable〕"
+			],
+			[
+				"yie",
+				"yieldStg〔function〕"
+			],
+			[
+				"print",
+				"printf〔function〕"
+			],
+			[
+				"for",
+				"for	for …"
+			],
+			[
+				"debu",
+				"debug_backtrace〔function〕"
+			],
+			[
+				"Login",
+				"LoginReporter〔class〕"
+			],
+			[
+				"o",
+				"$observer〔variable〕"
+			],
+			[
+				"ob",
+				"$observer〔variable〕"
+			],
+			[
+				"Log",
+				"LogHandler〔class〕"
+			],
+			[
+				"get",
+				"getCost"
+			],
+			[
+				"foreach",
+				"foreach	foreach …"
+			],
+			[
+				"PAT",
+				"PATHINFO_EXTENSION〔constant〕"
+			],
+			[
+				"str_rep",
+				"str_replace〔function〕"
+			],
+			[
+				"class",
+				"$classInstance〔variable〕"
+			],
+			[
+				"va",
+				"var_dump($addS);exit"
+			],
+			[
+				"depend",
+				"$dependency〔variable〕"
+			],
+			[
+				"aut",
+				"$authController〔variable〕"
+			],
+			[
+				"Auth",
+				"Acme\\AuthController〔class〕"
+			],
+			[
+				"reist",
+				"$registration〔variable〕"
+			],
+			[
+				"regist",
+				"registration"
+			],
+			[
+				"LogT",
+				"LogToFile"
+			],
+			[
+				"ha",
+				"haveBirthday"
+			],
+			[
+				"stat",
+				"static〔keyword〕"
+			],
+			[
+				"func_ge",
+				"func_get_args〔function〕"
+			],
+			[
+				"th",
+				"$this〔variable〕"
+			],
+			[
+				"f",
+				"fun	function …"
+			],
+			[
+				"scr",
+				"$scr〔variable〕"
+			],
+			[
+				"var",
+				"var_dump〔function〕"
+			],
+			[
+				"in",
+				"$inputString〔variable〕"
+			],
+			[
+				"addD",
+				"addDocumentWrite"
+			],
+			[
+				"stor",
+				"storage_path"
+			],
+			[
+				"json",
+				"json_encode〔function〕"
+			],
+			[
+				"cou",
+				"countInLoop"
+			],
+			[
+				"da",
+				"dateToFormat"
+			],
+			[
+				"get_cla",
+				"get_class_methods"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 159.0,
+		"last_filter": "renam",
+		"selected_items":
+		[
+			[
+				"renam",
+				"ANF: Rename File"
+			],
+			[
+				"cop",
+				"ANF: Copy Current File"
+			],
+			[
+				"rena",
+				"ANF: Rename File"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"rename",
+				"ANF: Rename File"
+			],
+			[
+				"anf",
+				"ANF: Delete File"
+			],
+			[
+				"delet",
+				"ANF: Delete Current File"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				" install",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Preferences: Package Control Settings – Default"
+			],
+			[
+				"",
+				"Set Syntax: PHP"
+			],
+			[
+				"pac",
+				"Preferences: Browse Packages"
+			],
+			[
+				"packag",
+				"Preferences: Browse Packages"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 593.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+			"sublime.version()",
+			"sublime.versison()",
+			"hello",
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/sk/Documents/codeSnaps/fundamentals",
+		"/home/sk/Documents/codeSnaps/fundamentals/app"
+	],
+	"file_history":
+	[
+		"/home/sk/Documents/Projects_tests/command-series-app/src/AddCommand.html",
+		"/home/sk/Documents/Projects_tests/command-series-app/vendor/symfony/console/Command/Command.php",
+		"/home/sk/Documents/Projects_tests/command-series-app/src/ShowCommands.php",
+		"/home/sk/Documents/codeSnaps/ClassInversion.php",
+		"/home/sk/Documents/codeSnaps/Observer.php",
+		"/home/sk/Documents/decoratorPattern.php",
+		"/home/sk/Liskov.php",
+		"/home/sk/singleResposibility.php",
+		"/home/sk/Documents/codeSnaps/testDocWrite.html",
+		"/home/sk/Projects/on_vagrant/PHP53/afilo-backend/poolsHashWithChangedStatusTo99.log",
+		"/home/sk/Documents/codeSnaps/Bootcamp/review/app/src/AuthController.php",
+		"/home/sk/Documents/codeSnaps/ReflectionApi_Laracast/Foo.php",
+		"/home/sk/Documents/codeSnaps/ReflectionApi_Laracast/index.php",
+		"/home/sk/Documents/codeSnaps/Bootcamp/review/app/src/RegisterUser.php",
+		"/home/sk/Documents/codeSnaps/Bootcamp/review/app/AuthController.php",
+		"/home/sk/Documents/codeSnaps/Bootcamp/Business.php",
+		"/home/sk/Documents/codeSnaps/Bootcamp/review/app/composer.json",
+		"/home/sk/Documents/codeSnaps/Bootcamp/review/app/index.php",
+		"/home/sk/Documents/codeSnaps/Bootcamp/review/index.php",
+		"/home/sk/Documents/codeSnaps/Bootcamp/review/AuthController.php",
+		"/home/sk/Documents/codeSnaps/Bootcamp/review/src/RegisterUser.php",
+		"/home/sk/Documents/codeSnaps/Bootcamp/src/RegisterUser.php",
+		"/home/sk/Documents/codeSnaps/Bootcamp/review/review.php",
+		"/home/sk/Documents/codeSnaps/Bootcamp/interf_vs_abstract/ex.php",
+		"/home/sk/Documents/codeSnaps/Bootcamp/interfaces/interf3.php",
+		"/home/sk/Documents/codeSnaps/Bootcamp/interfaces/interf2.php",
+		"/home/sk/Documents/codeSnaps/Bootcamp/interfaces/interf.php",
+		"/home/sk/Documents/codeSnaps/Bootcamp/Static_l7/static.php",
+		"/home/sk/Documents/codeSnaps/Bootcamp/composer.json",
+		"/home/sk/Documents/codeSnaps/Bootcamp/vendor/composer/ClassLoader.php",
+		"/home/sk/Documents/codeSnaps/Bootcamp/vendor/composer/autoload_real.php",
+		"/home/sk/Documents/codeSnaps/Bootcamp/index.php",
+		"/home/sk/Documents/codeSnaps/Bootcamp/review/RegisterUser.php",
+		"/home/sk/Documents/codeSnaps/Bootcamp/interface/interf3.php",
+		"/home/sk/Documents/codeSnaps/Bootcamp/interfaces/interf2",
+		"/home/sk/Documents/codeSnaps/Bootcamp/interface.php",
+		"/home/sk/Documents/codeSnaps/Bootcamp/up/dd/d",
+		"/home/sk/Documents/codeSnaps/Bootcamp/ddddd",
+		"/home/sk/Documents/codeSnaps/Bootcamp/up/newc",
+		"/home/sk/Documents/codeSnaps/Bootcamp/up/dddd",
+		"/home/sk/Documents/codeSnaps/Bootcamp/lala",
+		"/home/sk/Documents/codeSnaps/Bootcamp/up/newxxx",
+		"/home/sk/Documents/codeSnaps/Bootcamp/up/ddd",
+		"/home/sk/Documents/codeSnaps/Bootcamp/d",
+		"/home/sk/Documents/codeSnaps/Bootcamp/up/down.php",
+		"/home/sk/Documents/codeSnaps/Bootcamp/kk",
+		"/home/sk/Documents/codeSnaps/Bootcamp/afjaslfjas;l",
+		"/home/sk/Documents/codeSnaps/Bootcamp/sss",
+		"/home/sk/Documents/Projects_tests/clear_laravel5/vendor/laravel/framework/src/Illuminate/Cache/CacheServiceProvider.php",
+		"/home/sk/.config/sublime-text-3/Packages/Babel/Babel.sublime-settings",
+		"/home/sk/.config/sublime-text-3/Packages/Git/Git.sublime-settings",
+		"/home/sk/.config/sublime-text-3/Packages/Sublimerge Pro/Custom Comparisons.sublime-settings",
+		"/home/sk/.config/sublime-text-3/Packages/Package Control/Package Control.sublime-settings",
+		"/home/sk/Documents/Projects_tests/clear_laravel5/app/Orders.php",
+		"/home/sk/.config/sublime-text-3/Packages/GotoDocumentation/Default (Linux).sublime-keymap",
+		"/home/sk/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+		"/home/sk/Documents/Projects_tests/test_lumen/database.sqlite",
+		"/home/sk/Documents/Projects_tests/test_lumen/vendor/laravel/lumen-framework/src/Application.php",
+		"/home/sk/Projects/snapp/xpathS.log",
+		"/home/sk/Projects/snapp/xpathRAnk.log",
+		"/home/sk/Projects/snapp/desc.log",
+		"/home/sk/Projects/snapp/data.log",
+		"/home/sk/Projects/snapp/xpath.log"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/home/sk/Documents/Projects_tests/test_lumen"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"access",
+			"$set",
+			"click_billed",
+			"aggre",
+			"afilo-ba",
+			"694",
+			"Import",
+			"15265150816309",
+			"250",
+			"kampania",
+			".\n",
+			":showStg.js",
+			"recalculated",
+			"recaltu",
+			"kampani",
+			"cut",
+			"awk",
+			"xarg",
+			"redis",
+			"keys",
+			"description",
+			"szym",
+			"is_b",
+			"genera",
+			"opentra",
+			"$match",
+			"$app->delete('user/{id}', function ($id) {\n    return User::findOrFail($id);\n});\n",
+			"\n\n var_dump(storage_path(),storage_path('database.sqlite'),  env('DB_CONNECTION', 'mysql'));exit;",
+			"\n var_dump(storage_path(),storage_path('database.sqlite'),  env('DB_CONNECTION', 'mysql'));exit;\n",
+			"could not find driver",
+			"APP_ENV",
+			"country",
+			"powinno być:\n0.90 * 2000 = ",
+			"\n\n\n/* 1 */\n{\n    \"result\" : [ \n        {\n            \"_id\" : \"2015-07-23\",\n            \"c_c\" : 0,\n            \"c_bc\" : 0,\n            \"c_pp\" : 0.0000000000000000,\n            \"c_pc\" : 0.0000000000000000\n        }, \n        {\n            \"_id\" : \"2015-07-24\",\n            \"c_c\" : 147,\n            \"c_bc\" : 144,\n            \"c_pp\" : 129.6000000000002217,\n            \"c_pc\" : 230.3999999999996078\n        }, \n        {\n            \"_id\" : \"2015-07-25\",\n            \"c_c\" : 45,\n            \"c_bc\" : 44,\n            \"c_pp\" : 39.5999999999999872,\n            \"c_pc\" : 70.4000000000000057\n        }\n    ],\n    \"ok\" : 1.0000000000000000\n}",
+			"set",
+			"update",
+			"aggrega",
+			"raport",
+			"partner-witryny",
+			"partnerWitrynyStatus",
+			"afilostg",
+			" <link href=\"./bower_components/bootstrap/dist/css/bootstrap.min.css\" rel=\"stylesheet\">\n        <link href=\"./bower_components/bootstrap/dist/css/bootstrap-theme.min.css\" rel=\"stylesheet\">",
+			"ranking",
+			"',');\n",
+			"aggregate",
+			"match",
+			"int(0)",
+			"dump",
+			"pgdum",
+			"array(0)",
+			"similar_",
+			"similar",
+			"4: ",
+			"4:",
+			"array(0)",
+			"class=\"details",
+			"class=\"ndetails",
+			"class=\"details",
+			"details",
+			"href",
+			"<body",
+			"secondary-content",
+			"second",
+			"-------",
+			"zend",
+			"remove",
+			"mongo",
+			"bofore",
+			"update",
+			" \"c_c\" : 11113,\n \"cb_c\" : 10465,\n \"c_uc\" : 10568,\n \"c_pp\" : 9418.4999999996452971,\n \"c_pc\" : 16744.0000000000727596",
+			"FAMILY",
+			"category",
+			" \n",
+			"4161",
+			"13200",
+			"15-0",
+			"15-07",
+			"015-07-",
+			"\nSNAPP\n",
+			"\nośrodek -> info do Justyny\n\n",
+			"select",
+			"rapor",
+			"status",
+			"recal",
+			"4291",
+			"$set",
+			"update",
+			";\n",
+			"crea",
+			"afililacja",
+			"aggre",
+			"ssh",
+			"psql",
+			"4291",
+			"ssh ",
+			"update",
+			"pg_dump",
+			"gumis",
+			"http_code",
+			"http_",
+			"aggre",
+			"format",
+			"snapp"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 112.0
+	},
+	"pinned_build_system": "",
+	"project": "fundaments-laravel.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"in",
+				"~/Documents/info start 09-05-2014"
+			],
+			[
+				"o",
+				"~/Documents/codeSnaps/ObserverPattern.php"
+			],
+			[
+				"",
+				"index.php"
+			],
+			[
+				"iluminat/container.php",
+				"vendor/laravel/framework/src/Illuminate/Container/Container.php"
+			],
+			[
+				"order",
+				"app/Http/Controllers/OrdersController.php"
+			],
+			[
+				"routes",
+				"app/Http/routes.php"
+			],
+			[
+				"rou",
+				"app/Http/routes.php"
+			],
+			[
+				"app",
+				"bootstrap/app.php"
+			],
+			[
+				"app.ph",
+				"bootstrap/app.php"
+			],
+			[
+				"database.p",
+				"vendor/laravel/lumen-framework/config/database.php"
+			],
+			[
+				"app.",
+				"bootstrap/app.php"
+			],
+			[
+				"sqlit",
+				"vendor/illuminate/database/Connectors/SQLiteConnector.php"
+			],
+			[
+				"create",
+				"database/migrations/2015_09_01_120447_create_users_table.php"
+			],
+			[
+				"info",
+				"~/Documents/from_old_comp/Documents/SPIS co gdzie jak po kolei/info start 09-05-2014"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 242.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
