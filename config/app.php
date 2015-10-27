@@ -141,6 +141,7 @@ return [
          *  Added by myself(sk)
          */
         Illuminate\Html\HtmlServiceProvider::class,
+        Bestmomo\Scafold\ScafoldServiceProvider::class,
 
 
         /*
