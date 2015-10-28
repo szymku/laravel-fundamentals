@@ -142,6 +142,7 @@ return [
          */
         Illuminate\Html\HtmlServiceProvider::class,
         Bestmomo\Scafold\ScafoldServiceProvider::class,
+        Laracasts\Flash\FlashServiceProvider::class,
 
 
         /*
@@ -206,6 +207,7 @@ return [
          */
         'Form'      => Illuminate\Html\FormFacade::class,
         'Html'      => Illuminate\Html\HtmlFacade::class,
+        'Flash'     => Laracasts\Flash\Flash::class,
 
     ],
 
