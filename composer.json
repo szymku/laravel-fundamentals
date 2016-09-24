@@ -1,6 +1,6 @@
 {
-    "name": "laravel/laravel",
-    "description": "The Laravel Framework.",
+    "name": "szymku/laravel-fundamentals",
+    "description": "The Laravel Framework. Only for test.",
     "keywords": ["framework", "laravel"],
     "license": "MIT",
     "type": "project",
